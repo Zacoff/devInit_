@@ -1,4 +1,5 @@
 [build]
+  publish = "Blog-DevInit/public"
   command = "cd Blog-DevInit && hugo --themesDir ../.."
 
 [build.environment]
